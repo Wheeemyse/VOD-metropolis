@@ -1,0 +1,20 @@
+body{
+  background: black !important;
+}
+.recent{
+  justify-content: center;
+}
+.legendecaroussel{
+  font-size: 50px!important;
+  background-color: rgba(68, 69, 97, 0.5);
+}
+.test{
+  left: 15% !important;
+  bottom: 80% !important;
+}
+.bandeau{
+  color: white;
+  background-color: rgba(68, 69, 97);
+  width: 100%;
+  padding-left: 50px;
+}
