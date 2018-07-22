@@ -11,6 +11,7 @@ body{
 .test{
   left: 15% !important;
   bottom: 80% !important;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 .bandeau{
   color: white;
